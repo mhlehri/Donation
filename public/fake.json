@@ -1,0 +1,135 @@
+ [
+    {
+      "id": 1,
+      "picture": "/resources/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "textColor": "#0052FF",
+      "bgColor": "#0052ff26",
+      "btnColor": "#0052ff33",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water.",
+      "price": "199.00"
+    },
+    {
+      "id": 2,
+      "picture": "/resources/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "textColor": "#FF444A",
+      "bgColor": "#ff444a26",
+      "btnColor": "#ff444a33",
+      "description": "Quality education is the key to unlocking one's potential and shaping a better future. We believe that every child deserves a good education. Our initiatives focus on improving educational opportunities, supporting teachers, and providing resources to underserved communities. With your help, we can empower the next generation with the knowledge and skills they need to succeed. Join us in our mission to make quality education accessible to all, ensuring a brighter future for our children.",
+      "price": "299.00"
+    },
+    {
+      "id": 3,
+      "picture": "/resources/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "textColor": "#79C23F",
+      "bgColor": "#79c23f26",
+      "btnColor": "#79c23f33",
+      "description": "Warmth, comfort, and dignity are the basic rights that clothing provides. Our used clothing drive aims to collect gently used clothing items and distribute them to those in need. Your contributions can help individuals and families who are struggling to afford clothing, especially during cold seasons. Together, we can make a significant difference in the lives of those less fortunate. Join us in this compassionate effort to provide warmth and clothing to those who need it most.",
+      "price": "99.00"
+    },
+    {
+      "id": 4,
+      "picture": "/resources/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "textColor": "#F87147",
+      "bgColor": "#f8714726",
+      "btnColor": "#f8714733",
+      "description": "Access to nutritious and affordable food is essential for a healthy and thriving community. Our mission is to ensure that no one goes hungry. We work to provide better food options and promote food security for everyone. Your support can help us make a positive impact on people's lives by improving access to quality food. Join us in the fight against hunger and together, let's create a world where everyone has enough to eat.",
+      "price": "249.00"
+    },
+    {
+      "id": 5,
+      "picture": "/resources/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "textColor": "#F87147",
+      "bgColor": "#f8714726",
+      "btnColor": "#f8714733",
+      "description": "Access to nutritious and affordable food is essential for a healthy and thriving community. Our mission is to ensure that no one goes hungry. We work to provide better food options and promote food security for everyone. Your support can help us make a positive impact on people's lives by improving access to quality food. Join us in the fight against hunger and together, let's create a world where everyone has enough to eat.",
+      "price": "249.00"
+    },
+    {
+      "id": 6,
+      "picture": "/resources/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "textColor": "#79C23F",
+      "bgColor": "#79c23f26",
+      "btnColor": "#79c23f33",
+      "description": "Warmth, comfort, and dignity are the basic rights that clothing provides. Our used clothing drive aims to collect gently used clothing items and distribute them to those in need. Your contributions can help individuals and families who are struggling to afford clothing, especially during cold seasons. Together, we can make a significant difference in the lives of those less fortunate. Join us in this compassionate effort to provide warmth and clothing to those who need it most.",
+      "price": "99.00"
+    },
+    {
+      "id": 7,
+      "picture": "/resources/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "textColor": "#FF444A",
+      "bgColor": "#ff444a26",
+      "btnColor": "#ff444a33",
+      "description": "Quality education is the key to unlocking one's potential and shaping a better future. We believe that every child deserves a good education. Our initiatives focus on improving educational opportunities, supporting teachers, and providing resources to underserved communities. With your help, we can empower the next generation with the knowledge and skills they need to succeed. Join us in our mission to make quality education accessible to all, ensuring a brighter future for our children.",
+      "price": "299.00"
+    },
+    {
+      "id": 8,
+      "picture": "/resources/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "textColor": "#0052FF",
+      "bgColor": "#0052ff26",
+      "btnColor": "#0052ff33",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water.",
+      "price": "199.00"
+    },
+    {
+      "id": 9,
+      "picture": "/resources/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "textColor": "#0052FF",
+      "bgColor": "#0052ff26",
+      "btnColor": "#0052ff33",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water.",
+      "price": "199.00"
+    },
+    {
+      "id": 10,
+      "picture": "/resources/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "textColor": "#FF444A",
+      "bgColor": "#ff444a26",
+      "btnColor": "#ff444a33",
+      "description": "Quality education is the key to unlocking one's potential and shaping a better future. We believe that every child deserves a good education. Our initiatives focus on improving educational opportunities, supporting teachers, and providing resources to underserved communities. With your help, we can empower the next generation with the knowledge and skills they need to succeed. Join us in our mission to make quality education accessible to all, ensuring a brighter future for our children.",
+      "price": "299.00"
+    },
+    {
+      "id": 11,
+      "picture": "/resources/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "textColor": "#79C23F",
+      "bgColor": "#79c23f26",
+      "btnColor": "#79c23f33",
+      "description": "Warmth, comfort, and dignity are the basic rights that clothing provides. Our used clothing drive aims to collect gently used clothing items and distribute them to those in need. Your contributions can help individuals and families who are struggling to afford clothing, especially during cold seasons. Together, we can make a significant difference in the lives of those less fortunate. Join us in this compassionate effort to provide warmth and clothing to those who need it most.",
+      "price": "99.00"
+    },
+    {
+      "id": 12,
+      "picture": "/resources/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "textColor": "#F87147",
+      "bgColor": "#f8714726",
+      "btnColor": "#f8714733",
+      "description": "Access to nutritious and affordable food is essential for a healthy and thriving community. Our mission is to ensure that no one goes hungry. We work to provide better food options and promote food security for everyone. Your support can help us make a positive impact on people's lives by improving access to quality food. Join us in the fight against hunger and together, let's create a world where everyone has enough to eat.",
+      "price": "249.00"
+    }
+  ]
+
